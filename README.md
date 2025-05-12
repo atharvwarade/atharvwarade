@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**atharvwarade/atharvwarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Profile Analytics - Atharv Warade -->
 
-Here are some ideas to get you started:
+<h1 align="center">📊 GitHub Analytics</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvwarade&show_icons=true&theme=radical" alt="Atharv's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvwarade&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atharvwarade&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvwarade&theme=algolia" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atharvwarade.atharvwarade" alt="Visitor Badge" />
+</p>
